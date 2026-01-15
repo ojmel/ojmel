@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**ojmel/ojmel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#  I'm Dr. Jamel "OJmel" Simpson 
 
-Here are some ideas to get you started:
+ **I design Software Tools and Pipelines fro data analysis, primarily for Biomedical Research.**  
+ **In my free time, I design fun apps and games like my recently published couch party game [Draftology](https://ojmel.itch.io/draftology)**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Skills & Tools**
+- Languages: `Python`, `Bash`, `Javascript`, `SQL`, `C++`
+- Tools: `AlphaFold2`, `Pandas`, `Tensorflow`,`Computer Vision`, `AWS (Lambda, DynamoDB, Amplify)`, `Gromacs`
+- Currently rebuilding Draftology website in React. Components changed my life.
+
+### **Message me**
+📧 Email: jamelsmpsn@gmail.com
